@@ -29,4 +29,5 @@ Aim point is TCR regs - https://europe.tcr-series.com/pdf/211221_2022_TCR_Techni
 - [ ] Second motor pickup mounts and suspension / driveshaft config
 
 # Misc links
-EV architecture overview https://www.youtube.com/watch?v=drS3sEsxOO8&
+Charger architecture overview https://www.youtube.com/watch?v=drS3sEsxOO8&
+Batter overview https://www.youtube.com/watch?v=YU_qfD582Sk
