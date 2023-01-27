@@ -16,3 +16,14 @@ https://twitter.com/projectzeusuk
 - [ ] Technical feasibility of pitstop battery changes
 - [ ] Solid state battery partnership
 - [ ] Safety systems & procedures (marshalls, pitlane, in car extinguishant)
+
+# Car technical hitlist (unsorted)
+
+Aim point is TCR regs - https://europe.tcr-series.com/pdf/211221_2022_TCR_Technical_Regulations_final.pdf
+- [ ] Suspension - ensure Gaz coilovers fit 2nd gen Zoe (send Gaz tech drawings and pictures)
+- [ ] Identify spacers and wheels for max 1950mm track with
+- [ ] Changeable battery mechanism & cutoff handles
+- [ ] ECU programming feasibility
+- [ ] Seat & rails
+- [ ] Roll cage
+- [ ] Second motor pickup mounts and suspension / driveshaft config
