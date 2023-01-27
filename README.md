@@ -30,4 +30,4 @@ Aim point is TCR regs - https://europe.tcr-series.com/pdf/211221_2022_TCR_Techni
 
 # Misc links
 Charger architecture overview https://www.youtube.com/watch?v=drS3sEsxOO8&
-Batter overview https://www.youtube.com/watch?v=YU_qfD582Sk
+Battery overview https://www.youtube.com/watch?v=YU_qfD582Sk
